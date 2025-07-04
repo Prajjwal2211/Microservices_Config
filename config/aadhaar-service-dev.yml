@@ -1,0 +1,13 @@
+
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/aadhaar
+    username: root
+    password: Pallu@8982
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
