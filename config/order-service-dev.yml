@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/orderdb_dev
     username: root
-    password: Ashish@123
+    password: Pallu@8982
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
